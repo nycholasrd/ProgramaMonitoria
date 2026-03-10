@@ -19,4 +19,4 @@ Programa desenvolvido para automatizar e facilitar a criação de editores para 
    ```batedor
    clone git [https://github.com/nycholasrd/ProgramaMonitoria.git]
    👤 Autor
-Seu Nome - Nycholas Richard https://www.linkedin.com/in/nycholas-richard/
+Nycholas Richard https://www.linkedin.com/in/nycholas-richard/
